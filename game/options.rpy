@@ -143,7 +143,7 @@ default preferences.afm_time = 15
 ## This generally should not be changed, and if it is, should always be a
 ## literal string, not an expression.
 
-define config.save_directory = "SIP-1666748538"
+define config.save_directory = "SIP-1668119461"
 
 
 ## Icon ########################################################################

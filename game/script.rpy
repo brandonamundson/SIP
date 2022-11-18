@@ -11,6 +11,8 @@ define hacker = Character("Hacker", color="#7ABEC5")
 label start:
 
     call hack from demonstrate
+    call scam from help
+    call learn from detect
 
 
     # This ends the game.
